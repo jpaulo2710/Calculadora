@@ -1,0 +1,8 @@
+C:\Users\jpaul\OneDrive\Área de Trabalho\Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\jpaul\OneDrive\Área de Trabalho\Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\jpaul\OneDrive\Área de Trabalho\Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\jpaul\OneDrive\Área de Trabalho\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\jpaul\OneDrive\Área de Trabalho\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\jpaul\OneDrive\Área de Trabalho\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\jpaul\OneDrive\Área de Trabalho\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\jpaul\OneDrive\Área de Trabalho\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
